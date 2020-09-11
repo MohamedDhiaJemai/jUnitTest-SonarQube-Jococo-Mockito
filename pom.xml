@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.coverage.jacoco.xmlReportPaths>../app-it/target/site/jacoco-aggregate/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
+	<!-- 	<sonar.coverage.jacoco.xmlReportPaths>../app-it/target/site/jacoco-aggregate/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>  -->
 	</properties>
 
 	<dependencies>
@@ -138,7 +138,7 @@
 	</build>
 
 
-	<reporting>
+	<!-- <reporting>
 		<plugins>
 			<plugin>
 				<groupId>org.jacoco</groupId>
@@ -146,13 +146,12 @@
 				<reportSets>
 					<reportSet>
 						<reports>
-							<!-- select non-aggregate reports -->
 							<report>report</report>
 						</reports>
 					</reportSet>
 				</reportSets>
 			</plugin>
 		</plugins>
-	</reporting>
+	</reporting> -->
 
 </project>
