@@ -1,0 +1,6 @@
+com\bitaka\gardenationale\model\Utilisateur.class
+com\bitaka\gardenationale\service\UtilisateurServiceImpl.class
+com\bitaka\gardenationale\StockExpressGardeNationaleApplication.class
+com\bitaka\gardenationale\controller\UtilisateurController.class
+com\bitaka\gardenationale\repository\UtilisateurRepository.class
+com\bitaka\gardenationale\service\UtilsateurService.class
