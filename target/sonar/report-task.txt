@@ -2,5 +2,5 @@ projectKey=com.bitaka:StockExpressGardeNationale
 serverUrl=http://localhost:9000
 serverVersion=6.7.7.38951
 dashboardUrl=http://localhost:9000/dashboard/index/com.bitaka:StockExpressGardeNationale
-ceTaskId=AXR9zsx7XmgocwMbjbuA
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXR9zsx7XmgocwMbjbuA
+ceTaskId=AXR90ALEXmgocwMbjbuB
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXR90ALEXmgocwMbjbuB
